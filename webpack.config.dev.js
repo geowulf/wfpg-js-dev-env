@@ -1,4 +1,5 @@
-var path = require('path');
+import path from 'path';
+
 
 export default {
   debug: true,
